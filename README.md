@@ -1,17 +1,14 @@
-# BreakHis image classification
-
-
-# Update the conda package manager
+# Atualizar o gerenciador de pacotes conda
 
 ```
     $ conda update -n base -c defaults conda
 ```
 
-## If necessary, update the Anaconda distribution
+## Se necessário, atualize a distribuição do Anaconda
 ```
     $ conda update anaconda
 ```
-## Creating the conda environment
+## Criando o ambiente conda
 ```
     $ conda create -n env-scoliosis-py310 python=3.10
     $ conda activate env-scoliosis-py310
@@ -25,13 +22,13 @@
     $ pip install <outros_modulos_necessarios>
 ```
 
-### Saving environment
+### Salvando o ambiente
 
 ```
     $ conda env export > env-scoliosis-py310.yml
 ```
 
-### Loading the environment from the provided .yml file
+### Carregando o ambiente do arquivo .yml fornecido
 
 ```
     $ conda env create -f env-scoliosis-py310.yml
