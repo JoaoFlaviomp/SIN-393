@@ -38,17 +38,17 @@ Este projeto visa:
 ---
 ## Instruções de execução:
 
-## Atualizar o gerenciador de pacotes conda
+### Atualizar o gerenciador de pacotes conda
 
 ```
     $ conda update -n base -c defaults conda
 ```
 
-## Se necessário, atualize a distribuição do Anaconda
+### Se necessário, atualize a distribuição do Anaconda
 ```
     $ conda update anaconda
 ```
-## Criando o ambiente conda
+### Criando o ambiente conda
 ```
     $ conda create -n env-scoliosis-py310 python=3.10
     $ conda activate env-scoliosis-py310
