@@ -36,9 +36,9 @@ Este projeto visa:
 - **Promover reprodutibilidade**, permitindo que outros pesquisadores usem e adaptem essas técnicas para outros desafios médicos.  
 
 ---
-# Instruções de execução:
+## Instruções de execução:
 
-# Atualizar o gerenciador de pacotes conda
+## Atualizar o gerenciador de pacotes conda
 
 ```
     $ conda update -n base -c defaults conda
@@ -73,4 +73,4 @@ Este projeto visa:
 ```
     $ conda env create -f env-scoliosis-py310.yml
 ```
-# Link para o vídeo de apresentação no YouTube: 
+## Link para o vídeo de apresentação no YouTube: 
