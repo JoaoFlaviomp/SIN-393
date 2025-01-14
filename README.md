@@ -1,4 +1,4 @@
-# Descrição detalhada do projeto:
+## Descrição detalhada do projeto:
 # Explorando Estratégias Avançadas de Aumento de Dados para Melhorar a Classificação de Distúrbios da Coluna Vertebral em Imagens de Raios-X
 
 ## Contexto
