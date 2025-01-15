@@ -1,3 +1,6 @@
+## Links importantes:
+[Acesse o artigo completo aqui](https://drive.google.com/file/d/1Yuy4qlL1H84NQBrJ25SpHCeR3bJDqoDZ/view?usp=sharing)
+
 ## Descrição detalhada do projeto:
 # Explorando Estratégias Avançadas de Aumento de Dados para Melhorar a Classificação de Distúrbios da Coluna Vertebral em Imagens de Raios-X
 
