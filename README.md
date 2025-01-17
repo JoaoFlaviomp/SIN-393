@@ -1,4 +1,4 @@
-## Links importantes:
+## Link do artigo:
 [Acesse o artigo completo aqui](https://drive.google.com/file/d/1Yuy4qlL1H84NQBrJ25SpHCeR3bJDqoDZ/view?usp=sharing)
 
 ## Link para o vídeo de apresentação no YouTube:
