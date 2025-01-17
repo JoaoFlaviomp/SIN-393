@@ -1,6 +1,8 @@
 ## Links importantes:
 [Acesse o artigo completo aqui](https://drive.google.com/file/d/1Yuy4qlL1H84NQBrJ25SpHCeR3bJDqoDZ/view?usp=sharing)
 
+## Link para o vídeo de apresentação no YouTube:
+
 ## Descrição detalhada do projeto:
 # Explorando Estratégias Avançadas de Aumento de Dados para Melhorar a Classificação de Distúrbios da Coluna Vertebral em Imagens de Raios-X
 
@@ -75,5 +77,4 @@ Este projeto visa:
 
 ```
     $ conda env create -f env-scoliosis-py310.yml
-```
-## Link para o vídeo de apresentação no YouTube: 
+``` 
