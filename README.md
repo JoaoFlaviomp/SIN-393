@@ -1,6 +1,3 @@
-## Link do artigo:
-[Acesse o artigo completo aqui](https://github.com/JoaoFlaviomp/SIN-393/blob/main/_WVC_2024____Jo%C3%A3o_Fl%C3%A1vio.pdf)
-
 ## Link para o vídeo de apresentação no YouTube:
 
 ## Descrição detalhada do projeto:
