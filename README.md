@@ -1,5 +1,5 @@
 ## Link do artigo:
-[Acesse o artigo completo aqui](https://drive.google.com/file/d/1Yuy4qlL1H84NQBrJ25SpHCeR3bJDqoDZ/view?usp=sharing)
+[Acesse o artigo completo aqui](https://github.com/JoaoFlaviomp/SIN-393/blob/main/_WVC_2024____Jo%C3%A3o_Fl%C3%A1vio.pdf)
 
 ## Link para o vídeo de apresentação no YouTube:
 
