@@ -1,4 +1,6 @@
 ## Link para o vídeo de apresentação no YouTube:
+[Assista no YouTube](https://www.youtube.com/watch?v=aeMVkYR4N9k)
+
 
 ## Descrição detalhada do projeto:
 # Explorando Estratégias Avançadas de Aumento de Dados para Melhorar a Classificação de Distúrbios da Coluna Vertebral em Imagens de Raios-X
